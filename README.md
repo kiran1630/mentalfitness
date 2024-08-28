@@ -5,9 +5,9 @@ This repository explores mental health and substance use data to gain insights i
 This project analyzes two publicly available datasets on mental health and substance use:
 
  - ## Data Source 1:
-       - Data on Disability-Adjusted Life Years (DALYs) due to mental disorders.
+        - Data on Disability-Adjusted Life Years (DALYs) due to mental disorders.
 - ## Data Source 2:
-      - Data on the prevalence of various mental and substance use disorders.
+        - Data on the prevalence of various mental and substance use disorders.
 
 
 # Key Features
